@@ -1,7 +1,7 @@
 # nodeWifiControlScanner
 
 
-### Exxemplo 
+### Exemplo 
 
 ```
 var WiFiControl = require('wifi-control');
